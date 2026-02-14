@@ -1,2 +1,1 @@
-# hychoi_fisiks.github.io
- My homepage and updates
+My homepage and updates. I like physics :)
