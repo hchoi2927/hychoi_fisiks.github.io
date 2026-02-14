@@ -1,2 +1,2 @@
 # hychoi_fisiks.github.io
-My homepage - progress documentation
+ My homepage and updates
